@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "chakloong"
 title_separator          : "-"
-name                     : &name "chakloong"
+name                     : &name "chakloong's blog"
 description              : &description "personal description"
 url                      : https://chakloong883.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "chakloong883/chakloong883.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Dr. Test Account"
+  avatar           : "bio-photo-2.jpg"
+  name             : "chakloong"
   pronouns         : # example: "she/her"  
   bio              : "Research scientist at Test University, expert in all things test and account related"
   location         : "Earth"
