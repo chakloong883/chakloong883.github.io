@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "chakloong"
+title                    : "Chakloong"
 title_separator          : "-"
 name                     : &name "chakloong's blog"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "chakloong883/chakloong883.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Chakloong"
   pronouns         : # example: "she/her"  
   bio              : "Code Worker"
