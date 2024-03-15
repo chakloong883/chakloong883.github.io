@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 
 ---
-Welcome
+
+Easy come, easy go.
